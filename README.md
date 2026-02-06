@@ -4,7 +4,7 @@
   КОНФИГИ ВПНОВ ВЛЕСС КОТОРЫЕ БУДУТ ВОЗМОЖНО РАБОТАТЬ 
 
 
-Telegram канал: https://t.me/whitelistvpn111 Создал: https://t.me/meowwwwking (по вопросам сюда) 
+
 
 # EU:
 
@@ -21,3 +21,4 @@ Telegram channel : https://t.me/whitelistvpn111     created: telegram: https://t
 # RU:
 Telegram канал: https://t.me/whitelistvpn111 Создал: https://t.me/meowwwwking (по вопросам сюда)  
  
+
