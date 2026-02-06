@@ -24,4 +24,5 @@ VPN configs for Vless that might work
 
 Telegram channel : https://t.me/whitelistvpn111
 
-created: telegram: https://t.me/meowwwwking
+created: telegram: https://t.me/meowwwwking (for questions, please contact us here)
+ 
