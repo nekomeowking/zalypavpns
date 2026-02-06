@@ -14,11 +14,11 @@ VPN CONFIGS FOR VLESS THAT MIGHT WORK
 
 # Contact/контакты:
 
-# EU
+EU:
 Telegram channel : https://t.me/whitelistvpn111     created: telegram: https://t.me/meowwwwking (for questions, please contact us here)
 
-
-# RU:
+ RU:
 Telegram канал: https://t.me/whitelistvpn111 Создал: https://t.me/meowwwwking (по вопросам сюда)  
  
+
 
